@@ -5,6 +5,8 @@
 - Country: Sweden
 - Age: 20 🍾
 - Hobbies: Tech & Vehicles 🚗🖥
----
+
+<!--
 ## Happening Now 📆 
 - Work: Hallstens Transport
+-->
